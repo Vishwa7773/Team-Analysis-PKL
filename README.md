@@ -7,8 +7,8 @@ I explored how data analytics can be applied to sports, particularly the Pro Kab
 3.Strongest and toughest opponents
 4.Score comparison between Puneri Paltan and competing teams
 ## Tools Used:
-1.*Python*
-2.*Pandas* for data cleaning and manipulation
-3.*KabaddiPy* for fetching PKL datasets
-4.*Matplotlib* & *Seaborn* for visualization
+1.*Python*\n
+2.*Pandas* for data cleaning and manipulation\n
+3.*KabaddiPy* for fetching PKL datasets\n
+4.*Matplotlib* & *Seaborn* for visualization\n
 
